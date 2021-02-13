@@ -1,0 +1,24 @@
+{
+  "name": "alexk",
+  "version": "1.0.0",
+  "description": "Alex Kretshcmer - Data Scientist Portfolio site",
+  "author": "Ginger Lee Kretschmer <ginger.lee.kretschmer@gmail.com>",
+  "license": "0BSD",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gingerlee/alexk.git"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.13",
+    "@babel/preset-react": "^7.12.13",
+    "parcel-bundler": "^1.12.4"
+  }
+}
