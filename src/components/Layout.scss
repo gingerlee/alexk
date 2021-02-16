@@ -1,0 +1,14 @@
+.container {
+  display: grid;
+  grid-template-columns: [sidebar] 1fr [content] 3fr;
+}
+
+.sidebar {
+  grid-column: sidebar;
+  position: fixed;
+}
+
+.content {
+  grid-column: content;
+  position: relative;
+}

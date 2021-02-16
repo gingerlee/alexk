@@ -6,7 +6,7 @@
   "license": "0BSD",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html --open"
+    "start": "parcel src/index.html --open"
   },
   "repository": {
     "type": "git",
@@ -14,9 +14,11 @@
   },
   "dependencies": {
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-particles-js": "^3.4.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.12.16",
     "@babel/preset-env": "^7.12.13",
     "@babel/preset-react": "^7.12.13",
     "parcel-bundler": "^1.12.4",
