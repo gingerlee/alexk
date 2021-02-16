@@ -1,7 +1,22 @@
-.nav-container {
+.navbar {
   margin: 0px;
   padding: 0px;
   position: fixed;
   top: 70px;
   left: 10px;
+
+  &-link {
+    color: #000;
+    text-decoration: none;
+
+    &:active {
+      color: #fff;
+      background-color: #000;
+    }
+
+    &:hover {
+      background: #ffff66;
+      color: #000000;
+    }
+  }
 }

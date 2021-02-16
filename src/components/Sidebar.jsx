@@ -11,42 +11,37 @@ const Sidebar = () => {
       </div>
       <div className="navbar-item">
         <a className="navbar-link" href="/">
-          About Alex Kretchmer
+          UFO html scraper
         </a>
       </div>
       <div className="navbar-item">
         <a className="navbar-link" href="/">
-          About Alex Kretchmer
+          NASA machine learning
         </a>
       </div>
       <div className="navbar-item">
         <a className="navbar-link" href="/">
-          About Alex Kretchmer
+          The truth is out there
         </a>
       </div>
       <div className="navbar-item">
         <a className="navbar-link" href="/">
-          About Alex Kretchmer
+          OSU data science masters
         </a>
       </div>
       <div className="navbar-item">
         <a className="navbar-link" href="/">
-          About Alex Kretchmer
+          Data, daddy, adidas
         </a>
       </div>
       <div className="navbar-item">
         <a className="navbar-link" href="/">
-          About Alex Kretchmer
+          Mapping corona
         </a>
       </div>
       <div className="navbar-item">
         <a className="navbar-link" href="/">
-          About Alex Kretchmer
-        </a>
-      </div>
-      <div className="navbar-item">
-        <a className="navbar-link" href="/">
-          About Alex Kretchmer
+          Soccer, jersey data vis
         </a>
       </div>
     </nav>

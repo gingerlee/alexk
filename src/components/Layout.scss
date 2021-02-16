@@ -1,14 +1,21 @@
 .container {
   display: grid;
   grid-template-columns: [sidebar] 1fr [content] 3fr;
+  padding-top: 70px;
 }
 
 .sidebar {
   grid-column: sidebar;
-  position: fixed;
 }
 
 .content {
   grid-column: content;
   position: relative;
+}
+
+.shaka-svg {
+  height: 30px;
+  position: relative;
+  top: -30px;
+  left: 10px;
 }
